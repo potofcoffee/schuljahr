@@ -15,12 +15,14 @@
 ?><!DOCTYPE html>
 <html lang="de">
 <head>
+    <title>Übersicht über das Schuljahr erzeugen</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker3.min.css" integrity="sha512-rxThY3LYIfYsVCWPCW9dB0k+e3RZB39f23ylUYTEuZMDrN/vRqLdaCBo/FbvVT6uC2r0ObfPzotsfKF9Qc5W5g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <div class="container p-3">
         <h1>Übersicht über das Schuljahr anlegen</h1>
+        <p>Mit diesem kleinen Tool erzeugst du blitzschnell eine Liste aller Schulstunden im neuen Schuljahr unter Berücksichtigung der Ferien.</p>
         <form method="post" action="result.php">
             <div class="form-group">
                 <label for="course">Bezeichnung der Klasse/des Kurses</label>
