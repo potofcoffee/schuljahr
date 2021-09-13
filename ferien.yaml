@@ -1,0 +1,21 @@
+Herbstferien:
+  start: 2021-10-31
+  end: 2021-11-06
+Weihnachtsferien:
+  start: 2021-12-23
+  end: 2022-01-09
+Faschingsferien:
+  start: 2022-02-28
+  end: 2022-03-05
+Osterferien:
+  start: 2022-04-13
+  end: 2022-04-22
+Pfingstferien:
+  start: 2022-06-07
+  end: 2022-06-17
+Sommerferien:
+  start: 2022-08-07
+  end: 2022-09-09
+'Christi Himmelfahrt + 1 beweglicher Ferientag':
+  start: 2022-05-26
+  end: 2022-05-27

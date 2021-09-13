@@ -1,0 +1,16 @@
+{
+  "name": "peregrinus/schuljahr",
+  "description": "Get a list of all class hours in a new school year",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Christoph Fischer",
+      "email": "chris@toph.de"
+    }
+  ],
+  "require": {
+    "carbondate/carbon": "^1.33",
+    "phpoffice/phpspreadsheet": "^1.18"
+  }
+}
