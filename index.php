@@ -53,6 +53,12 @@
             <hr />
             <input type="submit" class="btn btn-primary" value="Erstellen" />
         </form>
+        <div class="mt-5 pt-5 text-small"><small>
+            Schuljahr &copy; 2021 Christoph Fischer. Veröffentlicht als Open Source:
+            <a href="https://github.com/potofcoffee/schuljahr" target="_blank">GitHub</a> &middot;
+            <a href="https://raw.githubusercontent.com/potofcoffee/schuljahr/master/LICENSE" target="_blank">Lizenz</a>
+            </small>
+        </div>
     </div>
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
